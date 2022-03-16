@@ -1,0 +1,138 @@
+{
+  "users": [
+    {
+      "firstName": "Steven",
+      "lastName": "Gerrard",
+      "nickname": "Gerrard8",
+      "email": "steven.gerrard@gmail.com",
+      "password": "123456",
+      "againPassword": "123456",
+      "gender": "male",
+      "dataBirthday": "1980-05-30",
+      "profileImage": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F0ea19f6a-994c-11eb-929e-8d73842419de.jpg?crop=1310%2C737%2C154%2C454&resize=1200",
+      "followers": [
+        5
+      ],
+      "following": [],
+      "id": 1
+    },
+    {
+      "firstName": "Mark",
+      "lastName": "Zuckerberg",
+      "nickname": "M.Zuckerberg",
+      "email": "zuckerberg@gmail.com",
+      "password": "123456",
+      "againPassword": "123456",
+      "gender": "male",
+      "dataBirthday": "1984-05-14",
+      "profileImage": "https://kompanion.online/wp-content/uploads/2017/12/mark-zuckerberg-headshot-1200x900.jpg",
+      "followers": [],
+      "following": [],
+      "id": 2
+    },
+    {
+      "firstName": "Melinda",
+      "lastName": "Gates",
+      "nickname": "Melinda1964",
+      "email": "melinda.g@gmail.com",
+      "password": "123456",
+      "againPassword": "123456",
+      "gender": "female",
+      "dataBirthday": "1964-08-15",
+      "profileImage": "https://www.un.org/sites/un2.un.org/files/melinda-gates.jpg",
+      "followers": [],
+      "following": [],
+      "id": 3
+    },
+    {
+      "firstName": "Natalie",
+      "lastName": " Portman",
+      "nickname": "Portman9",
+      "email": "portman@gmail.com",
+      "password": "123456",
+      "againPassword": "123456",
+      "gender": "female",
+      "dataBirthday": "1981-06-09",
+      "profileImage": "https://interesnyefakty.org/wp-content/uploads/interesnye-fakty-o-natali-portman.jpg",
+      "followers": [
+        7
+      ],
+      "following": [],
+      "id": 4
+    },
+    {
+      "firstName": "Vladimir",
+      "lastName": "Ghrejyan",
+      "nickname": "v.ghrejyan",
+      "email": "vladimir.ghrejyan@gmail.com",
+      "password": "123456",
+      "againPassword": "123456",
+      "gender": "male",
+      "dataBirthday": "1998-11-27",
+      "profileImage": "https://restorixhealth.com/wp-content/uploads/2018/08/No-Image.png",
+      "followers": [
+        7
+      ],
+      "following": [
+        1
+      ],
+      "id": 5
+    },
+    {
+      "firstName": "Elon",
+      "lastName": "Musk",
+      "nickname": "Elon.Tesla",
+      "email": "musk@mail.ru",
+      "password": "123456",
+      "againPassword": "123456",
+      "gender": "male",
+      "dataBirthday": "1971-06-28",
+      "profileImage": "https://see.news/wp-content/uploads/2021/12/180515-10thingselonmusk-editorial.jpg",
+      "followers": [],
+      "following": [],
+      "id": 6
+    },
+    {
+      "firstName": "Keanu",
+      "lastName": "Reeves",
+      "nickname": "Neo",
+      "email": "reeves@gmail.com",
+      "password": "123456",
+      "againPassword": "123456",
+      "gender": "male",
+      "dataBirthday": "1964-09-02",
+      "profileImage": "https://i.insider.com/5d66d21e6f24eb396b6c8192?width=700",
+      "followers": [],
+      "following": [
+        5
+      ],
+      "id": 7
+    },
+    {
+      "firstName": "Ariana",
+      "lastName": "Grande",
+      "nickname": "Ariana.G",
+      "email": "ariana.grande@gmail.com",
+      "password": "123456",
+      "againPassword": "123456",
+      "gender": "female",
+      "dataBirthday": "1993-06-26",
+      "profileImage": "https://peopletalk.ru/wp-content/uploads/2020/10/ygtrsv23i8e-e1604064539505-640x477.jpg",
+      "followers": [],
+      "following": [],
+      "id": 8
+    }
+  ],
+  "posts": [
+    {
+      "id": "86ae7137-be62-40e1-9d63-9f4cf7414ded",
+      "title": "dfhdf",
+      "content": "zfzdv",
+      "createdAt": "2022-03-16",
+      "authorID": "1",
+      "likes": [
+        1
+      ]
+    }
+  ]
+}
